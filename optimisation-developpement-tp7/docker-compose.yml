@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  optimisation-developpement-tp7:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: optimisation-developpement-tp7
+    # Pour une app console, pas besoin d'exposer de port
+    # ports:
+    #   - "8080:8080"
+    stdin_open: true
+    tty: true
