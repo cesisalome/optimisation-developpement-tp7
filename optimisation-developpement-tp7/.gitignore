@@ -1,0 +1,84 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+artifacts/
+publish/
+out/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# NuGet
+packages/
+*.nupkg
+.nuget/packages/
+
+# Dotnet
+project.lock.json
+project.fragment.lock.json
+
+# Test results
+TestResults/
+*.trx
+
+# Build reports / logs
+*.log
+*.vspscc
+*.vssscc
+
+# Coverage
+*.coverage
+*.coveragexml
+coverage/
+coverage*.json
+
+# User-specific files
+*.rsuser
+*.userprefs
+
+# Azure / local settings / secrets
+local.settings.json
+secrets.json
+*.PublishSettings
+appsettings.*.Local.json
+appsettings.*.Development.json
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Sql Server files
+*.mdf
+*.ldf
+
+# JetBrains Rider / ReSharper
+_ReSharper*/
+*.DotSettings.user
+.idea/
+
+# Docker
+docker-compose.override.yml
+
+# Node / front-end (if present)
+node_modules/
+
+# Ignore VS telemetry / temporary files
+*.tmp
+*.temp
+~$*
+
+# Optional: lockfiles for global tools
+global.json.lock

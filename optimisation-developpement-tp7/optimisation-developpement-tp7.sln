@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "optimisation-developpement-tp7", "optimisation-developpement-tp7.csproj", "{FC2AEC90-5027-4EC0-A592-B5554702B587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC2AEC90-5027-4EC0-A592-B5554702B587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2AEC90-5027-4EC0-A592-B5554702B587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2AEC90-5027-4EC0-A592-B5554702B587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2AEC90-5027-4EC0-A592-B5554702B587}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E10D6404-20CB-4C9D-B61D-D12CC6539554}
+	EndGlobalSection
+EndGlobal

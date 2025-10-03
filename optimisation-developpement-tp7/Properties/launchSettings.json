@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "optimisation-developpement-tp7": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
